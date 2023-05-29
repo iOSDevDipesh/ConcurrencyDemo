@@ -1,5 +1,5 @@
 # ConcurrencyDemo
-Concurrency,Sync,Async,Serial, Concurrent queue,Thread with example in Swift
+Concurrency,Sync,Async,Serial, Concurrent queue,Thread with example in Swift.
 
 In this code, there is a function named queueTesting that demonstrates the behavior of different queue types (serial and concurrent) and execution modes (sync and async).
 
